@@ -31,8 +31,7 @@ Contributing to a collaborative project by developing features for a key-value s
 # Internships  
 * **Vega IT (2023)**  
 Completed a one-week internship during a high school program, gaining insights into professional software development workflows.  
-*	**Codebehind, Belgrade (2024)**  
-Selected for a backend developer internship program, enhancing skills in server-side development and system design.  
+
 Skills  
 * Programming Languages: Python, Java, JavaScript, SQL, Go, C++  
 * Frameworks and Technologies: React.js, Firebase, Node.js  
