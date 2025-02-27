@@ -10,7 +10,7 @@ Mobile: +381 64 4607684
 * Faculty of Technical Sciences, Novi Sad  
 **Software Engineering and Information Technologies**  
 **Completed first year with a grade of 9.1**  
-*Applied for a state scholarship*  
+*State scholarship award*  
 ---  
 # Software Development Projects 
 * **Data Scraping and Mailing Application**  
